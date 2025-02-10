@@ -1,0 +1,57 @@
+[
+    {
+        "category": "BCIT",
+        "difficulty": "easy",
+        "question": "What is the name of the instructor for Python in term 2?",
+        "correct_answer": "Tim",
+        "incorrect_answers": [
+            "Alice",
+            "Mohamed",
+            "Sarah"
+        ]
+    },
+    {
+        "category": "BCIT",
+        "difficulty": "hard",
+        "question": "What is the full course code for Python in term 2?",
+        "correct_answer": "ACIT2515",
+        "incorrect_answers": [
+            "CIT2515",
+            "ACIT1515",
+            "CIT5251"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "easy",
+        "question": "What geometric shape has four sides?",
+        "correct_answer": "Square",
+        "incorrect_answers": [
+            "Hexagon",
+            "Circle",
+            "Triangle"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "hard",
+        "question": "The words \"bungalow\" and \"shampoo\" originate from the languages of which country?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "Papua New Guinea",
+            "Ethiopia",
+            "China"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "What is the unit of currency in Mexico?",
+        "correct_answer": "Peso (MXP)",
+        "incorrect_answers": [
+            "Peso (PHP)",
+            "Real",
+            "Dollar"
+        ]
+    }
+]
