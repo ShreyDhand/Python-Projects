@@ -98,3 +98,6 @@ class Game:
         print(f"Game over! Your final score is: {self.score}")
 
 
+#Play the game 
+game = Game(category=None, difficulty=None, number=3)
+game.play() 
